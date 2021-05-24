@@ -1,4 +1,5 @@
 ![avatar](https://raw.githubusercontent.com/TributePaulWalker/PaulWalker/main/PaulWalker.JPG)
 ### Hi 👋 👋 👋 I'm Brian～
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TributePaulWalker&show_icons=trueshow_icons=true&theme=dark)](https://github.com/TributePaulWalker)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TributePaulWalker)](https://github.com/TributePaulWalker/Profiles)
+
 
